@@ -1,0 +1,6 @@
+#updated
+#Mon Sep 19 16:10:57 IST 2022
+pwd=tiger
+raj=20000
+umesh=8000
+user=scott
